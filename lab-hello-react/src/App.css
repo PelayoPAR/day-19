@@ -6,8 +6,8 @@
   text-align: center;
 }
 
-.ul {
-  padding: 0;
+ul {
+  padding-inline-start: 52px;
 }
 
 .logo {
@@ -15,6 +15,7 @@
   padding: 1.5em;
   will-change: filter;
 }
+
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
 }
